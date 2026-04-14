@@ -9,6 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+3rd+Year+Computer+Science+student;" />
 </a>
 
+
 </div>
 
 ---
@@ -20,6 +21,9 @@
 
 <a href="https://www.linkedin.com/in/chinmayi-santhosh-7070013b9" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:santhoshchinmayi@gmail.com" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 ---
