@@ -4,11 +4,7 @@
 </div>
 
 <h1>Hello Real World! I'm Chinmayi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" /></h1>
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+3rd+Year+Computer+Science+student;" />
-</a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=Welcome+to+my+GitHub+Profile!&fontSize=20&fontColor=abcdef&fontAlign=17.5&fontAlignY=50" />
 
 ---
 
