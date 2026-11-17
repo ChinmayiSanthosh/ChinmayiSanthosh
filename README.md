@@ -13,7 +13,7 @@
 - Grab a coffee and let's talk about technology and lifestyle!
 - Looking to collaborate on backend and frontend software engineering projects
 
-<a href="www.linkedin.com/in/chinmayi-santhosh-b53b09438" target="_blank">
+<a href="https://www.linkedin.com/in/chinmayi-santhosh-b53b09438/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:santhoshchinmayi@gmail.com" target="_blank">
